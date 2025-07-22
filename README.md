@@ -3,6 +3,7 @@
 ## Introduction
 This project leverages deep learning and artificial intelligence to automatically detect and track players, referees, and the football in match videos. Trained using Google Colab with the YOLO model, it also assigns players to teams via color-based clustering, estimates ball possession, accounts for camera movement, and calculates player speed and distance covered using advanced computer vision techniques.
 
+![Screenshot](output_videos/first_version_model.png)
 ![Screenshot](output_videos/screenshot.png)
 
 ## Modules Used
