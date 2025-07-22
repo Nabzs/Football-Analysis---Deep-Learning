@@ -14,15 +14,15 @@ The following modules are used in this project:
 - Speed and distance calculation per player
 
 ## Trained Models
-- [Trained Yolo v5](models/best.pt)
-- [Trained Yolo v5](models/last.pt)
+- [Trained Yolo v5 (best.pt)](https://drive.google.com/file/d/1_RFGtg_uvqD8RvRgd44rJoJU5UQpVLZx/view?usp=sharing)
+- [Trained Yolo v5 (last.pt)](https://drive.google.com/file/d/1GoRfC9d8fu7G9wdifJr_9IK93UUziJq9/view?usp=sharing)
 
 
 ## Sample video
--  [Sample input video](input_videos/08fd33_4.mp4)
+-  [Input video](https://drive.google.com/file/d/1zTI0gUHgAD8AUGSFiibHFtpFVwLPIfDM/view?usp=sharing)
 
 ## Output video
--  [Final result](output_videos/output_video.avi)
+-  [Final result](https://drive.google.com/file/d/12bIpGxk8tp4vHQbf98jp84A-lKEs12_K/view?usp=sharing)
 
 ## Requirements
 To run this project, you need to have the following requirements installed:
